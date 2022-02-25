@@ -23,6 +23,7 @@
   * Grit
 
 ## Tasks
+* Set up pytest-describe testing framework.
 * Set up admin interface using standard django admin
 * Create CharacterSheet model
   * add fields
